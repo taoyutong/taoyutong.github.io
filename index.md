@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## 我总觉得，如果我安排好了一切，也许明天就会意外去世。所以潜意识里总是拖延着。
+## 现在想明白了，拖沓着活着，不如干净利落的逝去。
+
+Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/taoyutong/taoyutong.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
